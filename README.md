@@ -4,7 +4,7 @@ This project is a React application built with Vite as the build tool and uses R
 
 <img width="569" height="521" alt="Ouput 1" src="https://github.com/user-attachments/assets/d8b3036b-f918-49a2-b4cb-a783ce2c1ddb" />
 
-## Features:
+## Features ✨
 
 ⚛️ React 18+
 ⚡ Vite for fast builds and dev server
@@ -20,7 +20,7 @@ Clone the repository and install dependencies:
 npm install
 ```
 
-🚀  Development
+## Development 🚀
 
 Start the development server with hot module replacement:
 
@@ -30,7 +30,7 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:5173` (or the port shown in the terminal) to see the app running.
 
-🏗️ Build:
+## Build 🏗️
 
 To create a production build, run:
 
@@ -40,7 +40,7 @@ npm run build
 
 The build output will be in the `dist` folder.
 
-📁 Project Structure
+## Project Structure 📁
 
 - `src/` - Source files including components and Redux slices
 - `public/` - Static assets
@@ -49,7 +49,7 @@ The build output will be in the `dist` folder.
 - `.gitignore` - Git ignore rules
 - `package.json` - Project metadata and scripts
 
-## Usage
+## Usage 🧪
 
 The app includes example components that demonstrate Redux state management like:
 
@@ -59,6 +59,6 @@ The app includes example components that demonstrate Redux state management like
 
 You can extend and customize it for your own projects.
 
-## License
+## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
