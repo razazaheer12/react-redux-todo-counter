@@ -50,7 +50,9 @@ The build output will be in the `dist` folder.
 ## Usage
 
 The app includes example components that demonstrate Redux state management like:
+
 ➕ Counters
+
 📝 To-do lists 
 
 You can extend and customize it for your own projects.
