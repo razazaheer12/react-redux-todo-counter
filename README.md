@@ -1,4 +1,4 @@
-🌀 react-redux-todo-counter:
+## react-redux-todo-counter:
 
 This project is a React application built with Vite as the build tool and uses Redux for state management. It demonstrates a simple and efficient setup for building modern React applications with fast development and hot module replacement.
 
