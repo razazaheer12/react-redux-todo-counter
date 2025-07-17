@@ -49,7 +49,7 @@ The build output will be in the `dist` folder.
 - `.gitignore` - Git ignore rules
 - `package.json` - Project metadata and scripts
 
-## Usage 🧪
+## Usage 
 
 The app includes example components that demonstrate Redux state management like:
 
