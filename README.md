@@ -6,11 +6,11 @@ This project is a React application built with Vite as the build tool and uses R
 
 ## Features ✨
 
-⚛️ React 18+
-⚡ Vite for fast builds and dev server
-🧠 Redux Toolkit for state management
-🧩 Modular component structure
-🧹 ESLint for clean and consistent code
+- React 18+
+- Vite for fast build and development server
+- Redux Toolkit for state management
+- Modular component structure
+- ESLint configured for code quality
 
  ## Installation 📦
 
