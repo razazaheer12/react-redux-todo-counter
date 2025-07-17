@@ -12,6 +12,11 @@ This project is a React application built with Vite as the build tool and uses R
 - Modular component structure
 - ESLint configured for code quality
 
+<img width="492" height="197" alt="Ouput 2" src="https://github.com/user-attachments/assets/61579798-5e55-4118-b25b-03bfcbb61e06" />
+
+<img width="509" height="432" alt="Ouput 3" src="https://github.com/user-attachments/assets/3b5feb77-e93e-4ea3-8fb8-8a8c046a1afe" />
+
+
  ## Installation 📦
 
 Clone the repository and install dependencies:
